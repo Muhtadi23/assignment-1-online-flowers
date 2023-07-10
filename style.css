@@ -1,0 +1,129 @@
+*{
+    margin: 0;
+    font-family: 'Lato', sans-serif;
+}
+.btn-primary{
+    border-radius: 8px;
+    background: #E55473;
+    border: 0;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 15px 35px;
+}
+.section-title{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    margin-bottom: 30px;
+}
+.section-description{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    margin-bottom: 30px;
+}
+.banner{
+    background: rgba(229, 84, 115, 0.10);
+    padding: 30px 30px 0 150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+.banner-title{
+    color: #272727;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 800;
+}
+.banner-description{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.featured-flowers{
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    margin-bottom: 50px;
+}
+.pink-bg{
+    width: 332px;
+    height: 428px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+}
+.green-bg{
+    width: 332px;
+    height: 428px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+}
+.off-bg{
+    width: 332px;
+    height: 428px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+}
+
+
+
+
+.services{
+    display: flex;
+    width: 1440px;
+    height: 320px;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+    gap: 300px;
+}
+
+.insta-flowers{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+.blend{
+    margin: 50px 240px;
+    position: relative;
+}
+.subscribe-box-details{
+    position: absolute;
+    top: 150px;
+    left: 400px;
+}
+
+footer{
+    width: 1922px;
+    height: 449px;
+    background: #111010;
+    padding-top: 225px;
+}
+.footer-title{
+    color: #E55473;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 800;
+}
+.footer-des{
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-weight: 400;
+    font-size: 18px;
+}
+.rights{
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: normal;
+}
