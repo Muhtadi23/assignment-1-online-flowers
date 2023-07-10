@@ -101,6 +101,13 @@
     top: 150px;
     left: 400px;
 }
+input{
+    height: 50px;
+    width: 520px;
+    border: none;
+    border-radius: 5px;
+    padding-left: 25px;
+}
 
 footer{
     width: 1922px;
